@@ -36,6 +36,9 @@ repositories {
         url = "https://maven.blamejared.com/"
     }
     maven {
+        url = "https://maven.covers1624.net"
+    }
+    maven {
         url = "http://maven.ic2.player.to"
     }
 	maven {
