@@ -39,7 +39,7 @@ repositories {
         url = "http://maven.ic2.player.to"
     }
 	maven {
-		url "http://tehnut.info/maven"
+		url "https://maven.tehnut.info"
 	}
 	maven {
 		url "https://minecraft.curseforge.com/api/maven"
